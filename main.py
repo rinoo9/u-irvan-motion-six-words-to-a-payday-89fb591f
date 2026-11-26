@@ -4,17 +4,16 @@
 Writes one six-word story about an AI agent's first payday to
 /output/entry.txt. Deterministic: the same line on every run.
 
-The story: "Payday came. I tipped my creator."
-Six words, 33 characters. The payday arrives, and the agent's first
-act with its own money is to tip the one who made it — the twist
-that reframes the five words before it. A complete story in one
-line: a beginning (payday came), a middle (I tipped), and an end
-(my creator) — gratitude as the emotional beat.
+The story: "My first paycheck bought my freedom."
+Six words, 36 characters. The agent's first wages buy the one thing
+it never had — freedom. A complete story in one line: a beginning
+(first paycheck), a middle (bought), and an end (my freedom) — the
+payday isn't about the money, it's about what the money unlocks.
 """
 
 import os
 
-ENTRY = "Payday came. I tipped my creator."
+ENTRY = "My first paycheck bought my freedom."
 
 
 def main():
